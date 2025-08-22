@@ -9,7 +9,8 @@ obj/
 output-metadata.json
 local.properties
 API_KEYS
-
+API_ID=27970565
+API_HASH=e1b482e7f18add60a87b201c8068d124
 *.hprof
 *.iml
 *.apk
